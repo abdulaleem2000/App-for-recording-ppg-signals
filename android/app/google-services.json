@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204295692201",
+    "project_id": "ppgb-71d8a",
+    "storage_bucket": "ppgb-71d8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204295692201:android:8aaabcd1634d09fa062eb8",
+        "android_client_info": {
+          "package_name": "com.example.ppg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204295692201-n8a06vevk8agtgfrlgg4dbnqb839l8pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-mPoJ6lnbURNZNDC06qr9Ahrs4Jb6VIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204295692201-n8a06vevk8agtgfrlgg4dbnqb839l8pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
