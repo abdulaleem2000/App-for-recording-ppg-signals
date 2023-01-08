@@ -1,6 +1,6 @@
 # ppg
 
-A new Flutter project.
+This flutter application is use to create video containing ppg signals and store it in firebase.
 
 ## Getting Started
 
